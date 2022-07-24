@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/xkaikil/static/css/main.073c9b0a.css",
-    "main.js": "/xkaikil/static/js/main.506ed710.js",
+    "main.js": "/xkaikil/static/js/main.7b8a8107.js",
     "static/js/787.71e672d5.chunk.js": "/xkaikil/static/js/787.71e672d5.chunk.js",
     "static/media/logo.svg": "/xkaikil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/xkaikil/index.html",
     "main.073c9b0a.css.map": "/xkaikil/static/css/main.073c9b0a.css.map",
-    "main.506ed710.js.map": "/xkaikil/static/js/main.506ed710.js.map",
+    "main.7b8a8107.js.map": "/xkaikil/static/js/main.7b8a8107.js.map",
     "787.71e672d5.chunk.js.map": "/xkaikil/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.506ed710.js"
+    "static/js/main.7b8a8107.js"
   ]
 }
